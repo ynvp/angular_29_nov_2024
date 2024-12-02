@@ -32,7 +32,7 @@ functions
 2. User Defined
    a. Function declaration
    b. Function Expression
-   c. Self invoked / IIFE 
+   c. Self invoked / IIFE - Immediately Invoked Function Expression
    d. Arrow Function (ES-6) (2015)
 
 
